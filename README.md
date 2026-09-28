@@ -1,2 +1,2 @@
-# Recycling-Guide-App-Report
-A report that has analysed a problem, suggested a solution along with its functionalities, and user interfaces.
+This report shows the research that was done and what solution was offered.
+It also introduces the functionalities, target audiences, objecctives, and user interfaces.
